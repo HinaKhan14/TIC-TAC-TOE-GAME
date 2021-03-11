@@ -1,0 +1,7 @@
+c:\users\sarim\source\repos\oopProject\oopProject\bin\Debug\oopProject.exe.config
+c:\users\sarim\source\repos\oopProject\oopProject\bin\Debug\oopProject.exe
+c:\users\sarim\source\repos\oopProject\oopProject\bin\Debug\oopProject.pdb
+c:\users\sarim\source\repos\oopProject\oopProject\obj\Debug\oopProject.csprojResolveAssemblyReference.cache
+c:\users\sarim\source\repos\oopProject\oopProject\obj\Debug\oopProject.csproj.CoreCompileInputs.cache
+c:\users\sarim\source\repos\oopProject\oopProject\obj\Debug\oopProject.exe
+c:\users\sarim\source\repos\oopProject\oopProject\obj\Debug\oopProject.pdb
